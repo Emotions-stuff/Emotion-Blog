@@ -1,6 +1,6 @@
 ---
 slug: welcome
-title: Welcome to our blog
+title: Welcome to my blog
 authors: [EmotionChild]
 tags: [welcome]
 ---
