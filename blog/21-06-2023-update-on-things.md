@@ -10,4 +10,4 @@ Hey guys it has been a while and I have not streamed in a little while and I wan
 As you can see I have been quite busy but I hope I will be able to return to streaming once everything starts to quiet down a little.
 
 Thanks for taking the time to read this,
-- Toastie_t0ast (EmotionChild)
+Toastie_t0ast (EmotionChild)
