@@ -1,4 +1,6 @@
-# Website
+# ⚠ This repo is no longer updated as all code is now located at [https://toastielab.dev/toastie_t0ast/Toastie-Blog](https://toastielab.dev/toastie_t0ast/Toastie-Blog).
+
+## Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
